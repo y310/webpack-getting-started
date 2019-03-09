@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'srisakdi';
+  src: url('./font.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'srisakdi';
+  background: url('./photo.jpg');
+}
